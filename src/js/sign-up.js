@@ -43,7 +43,7 @@ $(function () {
     const logout = document.querySelector(".logout");
     logout.addEventListener("click", function (e) {
         e.preventDefault();
-        window.location.href = "log-in.html";
+        window.location.href = "index.html";
     });
 
 });
